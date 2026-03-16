@@ -1,205 +1,12 @@
-##150 Days MAANG Roadmap (Clean Version)
-#Day 1
+🚀 Frontend Developer DSA Roadmap (60 Days)
 
-Two Sum
+This repository contains my Data Structures & Algorithms practice roadmap optimized for Frontend Developers.
 
-Best Time to Buy and Sell Stock
+As a Frontend Developer (React + JavaScript), interview questions usually focus on:
 
-Majority Element
+Arrays & Strings
 
-Move Zeroes
-
-Squares of a Sorted Array
-
-Merge Sorted Array
-
-Day 2
-
-Remove Duplicates from Sorted Array
-
-Remove Duplicates from Sorted Array II
-
-Find All Numbers Disappeared in an Array
-
-Intersection of Two Arrays
-
-Intersection of Two Arrays II
-
-Maximum Population Year
-
-Find Pivot Index
-
-Day 3
-
-Running Sum of 1D Array
-
-Remove Element
-
-Find Winner on a Tic Tac Toe Game
-
-Build Array from Permutation
-
-Third Maximum Number
-
-Valid Mountain Array
-
-Day 4
-
-Find Common Characters
-
-Sum of All Odd Length Subarrays
-
-Range Sum Query – Immutable
-
-Shuffle the Array
-
-Max Consecutive Ones
-
-Sort Array by Parity
-
-Day 5
-
-Reverse Linked List
-
-Remove Linked List Elements
-
-Remove Duplicates from Sorted List
-
-Merge Two Sorted Lists
-
-Middle of the Linked List
-
-Palindrome Linked List
-
-Day 6
-
-Intersection of Two Linked Lists
-
-Linked List Cycle
-
-Valid Parentheses
-
-Implement Queue using Stacks
-
-Backspace String Compare
-
-Next Greater Element I
-
-Day 7 (System Design)
-
-Design a Rate Limiter
-
-Design a Library Management System
-
-Day 8
-
-Binary Tree Preorder Traversal
-
-Binary Tree Inorder Traversal
-
-Binary Tree Postorder Traversal
-
-Maximum Depth of Binary Tree
-
-Invert Binary Tree
-
-Symmetric Tree
-
-Day 9
-
-Subtree of Another Tree
-
-Diameter of Binary Tree
-
-Balanced Binary Tree
-
-Merge Two Binary Trees
-
-Same Tree
-
-Day 10
-
-Path Sum
-
-Binary Tree Paths
-
-Cousins in Binary Tree
-
-Convert Sorted Array to Binary Search Tree
-
-Range Sum of BST
-
-Day 11
-
-Valid Palindrome
-
-Valid Palindrome II
-
-Longest Palindrome
-
-Longest Common Prefix
-
-Valid Anagram
-
-First Unique Character in a String
-
-Day 12
-
-Is Subsequence
-
-Reverse String
-
-Reverse String II
-
-Reverse Words in a String III
-
-Isomorphic Strings
-
-Remove All Adjacent Duplicates in String
-
-Day 13
-
-Defanging an IP Address
-
-Reverse Only Letters
-
-Reverse Vowels of a String
-
-Length of Last Word
-
-Add Strings
-
-Fizz Buzz
-
-Day 14 (System Design)
-
-Design Consistent Hashing
-
-Design a Parking Lot
-
-Day 15
-
-Revision – Day 1 to Day 14
-
-✅ Agar chaho to main:
-
-Pure 150 days ka CLEAN roadmap PDF bana sakta hoon
-
-LeetCode links ke saath roadmap
-
-Frontend developer ke liye optimized DSA roadmap
-
-Daily GitHub practice tracker template
-
-Batao PDF chahiye ya GitHub README format? (interview preparation ke liye best rahega).
-
-Frontend developer ke liye optimized DSA roadmap yes
-
-Manisha, since you’re a frontend developer with React & JavaScript experience, you don’t need the full hardcore competitive-programming DSA roadmap. Interviewers for frontend roles usually focus on:
-
-Arrays / Strings
-
-HashMap / Set
+HashMap / HashSet
 
 Sliding Window
 
@@ -207,14 +14,17 @@ Two Pointers
 
 Stack
 
-Basic Tree / BFS
+Linked List
 
-Some Graph basics
+Binary Trees
 
-Real JS problem solving
+Basic Graphs
 
-So here is an optimized 60-Day DSA Roadmap for Frontend Developers (much more practical for interviews). 🚀
+Problem Solving using JavaScript
 
+This roadmap focuses on practical problems frequently asked in Frontend Interviews (Google, Amazon, Microsoft, etc.).
+
+📅 Roadmap Structure
 1️⃣ Arrays (Core Frontend Logic)
 
 Two Sum
@@ -459,7 +269,7 @@ Course Schedule II
 
 Pacific Atlantic Water Flow
 
-1️⃣2️⃣ Dynamic Programming (Few Only)
+1️⃣2️⃣ Dynamic Programming (Essential Only)
 
 Climbing Stairs
 
@@ -475,7 +285,7 @@ Longest Common Subsequence
 
 Word Break
 
-1️⃣3️⃣ Design Questions (Frontend Interviews Love These)
+1️⃣3️⃣ Design Questions (Important for Frontend Interviews)
 
 LRU Cache
 
@@ -486,3 +296,30 @@ Design Browser History
 Implement Trie
 
 Design Autocomplete System
+
+🛠 Tech Stack Used
+
+JavaScript (ES6+)
+
+Node.js (for running solutions)
+
+Git & GitHub
+
+🎯 Goal
+
+Strengthen problem solving skills
+
+Prepare for Frontend Developer interviews
+
+Build consistent DSA practice habit
+
+Maintain daily coding streak on GitHub
+
+📌 Progress Tracker
+Day	Problems Solved	Status
+Day 1	Arrays	✅
+Day 2	Strings	⏳
+Day 3	HashMap	⏳
+⭐ If you find this roadmap useful
+
+Give this repository a star ⭐ and follow my journey!
