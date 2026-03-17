@@ -1,3 +1,5 @@
+//##Problem:
+//Find two numbers in an array that add up to a target.
 function twoSum(nums, target) {
   for (let i = 0; i < nums.length; i++) {
     for (let j = i + 1; j < nums.length; j++) {
