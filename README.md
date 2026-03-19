@@ -47,7 +47,7 @@ Find Pivot Index
 
 Running Sum of 1D Array
 
-Squares of a Sorted Array
+<!-- Squares of a Sorted Array -->
 
 Product of Array Except Self
 
@@ -55,7 +55,7 @@ Container With Most Water
 
 3Sum
 
-Rotate Array
+<!-- Rotate Array -->
 
 Maximum Product Subarray
 
@@ -316,10 +316,10 @@ Build consistent DSA practice habit
 Maintain daily coding streak on GitHub
 
 📌 Progress Tracker
-Day	Problems Solved	Status
-Day 1	Arrays	✅
-Day 2	Strings	⏳
-Day 3	HashMap	⏳
+Day Problems Solved Status
+Day 1 Arrays ✅
+Day 2 Strings ⏳
+Day 3 HashMap ⏳
 ⭐ If you find this roadmap useful
 
 Give this repository a star ⭐ and follow my journey!
