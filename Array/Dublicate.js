@@ -3,7 +3,7 @@
 
 function Duplicate(num) {
   let result = [];
-  for (let i = 0; i < num.length - 1; i++) {
+  for (let i = 0; i < num.length; i++) {
     if (num[i] === num[i + 1]) {
       result.push(num[i]);
     }
