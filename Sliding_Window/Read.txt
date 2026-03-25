@@ -1,0 +1,73 @@
+🚀 1. What is Sliding Window?
+
+👉 Sliding Window means:
+
+Instead of checking every possible subarray/substring (brute force)
+➡️ We maintain a window (range) and slide it across the array/string.
+
+Simple Idea
+Think of a window with left pointer (L) and right pointer (R)
+Move R → expand window
+Move L → shrink window
+
+⚡ Why use Sliding Window?
+
+Without sliding window:
+
+Time Complexity = O(n²) ❌
+
+With sliding window:
+
+Time Complexity = O(n) ✅
+
+
+🎯 2. Types of Sliding Window
+✅ 1. Fixed Size Window
+
+👉 Window size is constant (k)
+
+Example:
+
+"Find max sum of subarray of size k"
+
+Pattern:
+let sum = 0;
+
+// first window
+for (let i = 0; i < k; i++) {
+  sum += arr[i];
+}
+
+let max = sum;
+
+// slide window
+for (let i = k; i < arr.length; i++) {
+  sum = sum + arr[i] - arr[i - k];
+  max = Math.max(max, sum);
+}
+
+return max;
+✅ 2. Variable Size Window
+
+👉 Window size changes based on condition
+
+Example:
+
+"Longest substring without repeating characters"
+
+🔥 3. General Pattern (MOST IMPORTANT)
+let left = 0;
+
+for (let right = 0; right < arr.length; right++) {
+
+  // 1. Expand window
+  // include arr[right]
+
+  // 2. Check condition
+  while (condition not valid) {
+    // shrink window
+    left++;
+  }
+
+  // 3. Update result
+}
